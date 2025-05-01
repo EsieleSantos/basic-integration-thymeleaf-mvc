@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.projeto.thymeleaf.basicintegrationthymeleafmvc.BasicIntegrationThymeleafMvcApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.813 s - in com.projeto.thymeleaf.basicintegrationthymeleafmvc.BasicIntegrationThymeleafMvcApplicationTests
