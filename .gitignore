@@ -1,0 +1,30 @@
+# eclipse
+
+.metadata
+bin/
+tmp
+/target/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+# sbteclipse plugin
+.target
+
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+### Maven ###
+target/
